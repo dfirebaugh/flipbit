@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.29dbcb7c.chunk.css",
-    "main.js": "/static/js/main.f00874d3.chunk.js",
-    "main.js.map": "/static/js/main.f00874d3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9eb32141.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9eb32141.js.map",
-    "static/js/2.14837415.chunk.js": "/static/js/2.14837415.chunk.js",
-    "static/js/2.14837415.chunk.js.map": "/static/js/2.14837415.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.094207af673efb8b5fe8d1fa1f90512c.js": "/precache-manifest.094207af673efb8b5fe8d1fa1f90512c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.29dbcb7c.chunk.css.map": "/static/css/main.29dbcb7c.chunk.css.map",
-    "static/js/2.14837415.chunk.js.LICENSE": "/static/js/2.14837415.chunk.js.LICENSE"
+    "main.css": "/flipbit/static/css/main.29dbcb7c.chunk.css",
+    "main.js": "/flipbit/static/js/main.09994462.chunk.js",
+    "main.js.map": "/flipbit/static/js/main.09994462.chunk.js.map",
+    "runtime-main.js": "/flipbit/static/js/runtime-main.0d48587b.js",
+    "runtime-main.js.map": "/flipbit/static/js/runtime-main.0d48587b.js.map",
+    "static/js/2.14837415.chunk.js": "/flipbit/static/js/2.14837415.chunk.js",
+    "static/js/2.14837415.chunk.js.map": "/flipbit/static/js/2.14837415.chunk.js.map",
+    "index.html": "/flipbit/index.html",
+    "precache-manifest.e65352f72160187958773e1b9f22a1c2.js": "/flipbit/precache-manifest.e65352f72160187958773e1b9f22a1c2.js",
+    "service-worker.js": "/flipbit/service-worker.js",
+    "static/css/main.29dbcb7c.chunk.css.map": "/flipbit/static/css/main.29dbcb7c.chunk.css.map",
+    "static/js/2.14837415.chunk.js.LICENSE": "/flipbit/static/js/2.14837415.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.9eb32141.js",
+    "static/js/runtime-main.0d48587b.js",
     "static/js/2.14837415.chunk.js",
     "static/css/main.29dbcb7c.chunk.css",
-    "static/js/main.f00874d3.chunk.js"
+    "static/js/main.09994462.chunk.js"
   ]
 }
