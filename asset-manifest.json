@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/flipbit/static/css/main.29dbcb7c.chunk.css",
-    "main.js": "/flipbit/static/js/main.09994462.chunk.js",
-    "main.js.map": "/flipbit/static/js/main.09994462.chunk.js.map",
+    "main.js": "/flipbit/static/js/main.5d15feaa.chunk.js",
+    "main.js.map": "/flipbit/static/js/main.5d15feaa.chunk.js.map",
     "runtime-main.js": "/flipbit/static/js/runtime-main.0d48587b.js",
     "runtime-main.js.map": "/flipbit/static/js/runtime-main.0d48587b.js.map",
     "static/js/2.14837415.chunk.js": "/flipbit/static/js/2.14837415.chunk.js",
     "static/js/2.14837415.chunk.js.map": "/flipbit/static/js/2.14837415.chunk.js.map",
     "index.html": "/flipbit/index.html",
-    "precache-manifest.e65352f72160187958773e1b9f22a1c2.js": "/flipbit/precache-manifest.e65352f72160187958773e1b9f22a1c2.js",
+    "precache-manifest.02172cadb8b86b8eb570282db4f745f3.js": "/flipbit/precache-manifest.02172cadb8b86b8eb570282db4f745f3.js",
     "service-worker.js": "/flipbit/service-worker.js",
     "static/css/main.29dbcb7c.chunk.css.map": "/flipbit/static/css/main.29dbcb7c.chunk.css.map",
     "static/js/2.14837415.chunk.js.LICENSE": "/flipbit/static/js/2.14837415.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0d48587b.js",
     "static/js/2.14837415.chunk.js",
     "static/css/main.29dbcb7c.chunk.css",
-    "static/js/main.09994462.chunk.js"
+    "static/js/main.5d15feaa.chunk.js"
   ]
 }
