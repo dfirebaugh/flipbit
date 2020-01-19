@@ -16,6 +16,10 @@ function FlipBit() {
     <div className="App">
       <header className="App-header">
         <h1>FlipBit</h1>
+        <p>
+          This tool is intended to help teach how binary is converted into
+          decimal. Toggle the switches below to flip the bits
+        </p>
       </header>
 
       {PLACE_VALUES.map(function renderBits(placeValue, index) {
